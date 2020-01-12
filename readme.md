@@ -1,4 +1,4 @@
-A work-in-progress web client written in React and TypeScript to run puppeteer scripts on a WebSocket server connection.
+A work-in-progress web client written in React and TypeScript to run PuppeteerJS scripts on a WebSocket server connection.
 
 ![](https://i.imgur.com/aU1PMxI.gif)
 
