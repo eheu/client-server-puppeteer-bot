@@ -1,4 +1,9 @@
-A work-in-progress web client written in React and TypeScript to run PuppeteerJS scripts on a WebSocket server connection.
+Work-in-progress.
+
+- [X] Prototype
+- [ ] Dashboard
+- [ ] Create scripts from UI
+- [ ] Authentication / Authorization
 
 ![](https://i.imgur.com/aU1PMxI.gif)
 
